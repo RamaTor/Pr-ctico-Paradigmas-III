@@ -14,6 +14,7 @@ public class Main {
         Categoria otraCategoria = new Categoria();
         otraCategoria.setNombre("Ciencia Ficción");
 
+        //set valores
         spiderman.setNombre("lejos de casa");
         spiderman.setAnioEstreno(1994);
         spiderman.setCategoria(categoria);
